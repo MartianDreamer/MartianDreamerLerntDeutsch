@@ -18,14 +18,14 @@ sie heisst Mary
 
 | Infinitiv | ich | du | Sie | er,sie,es | wir | ihr | Sie | sie | Englisch |
 |-----------|-----|----|-----|-----------|-----|-----|-----|-----|----------|
-| bleiben | bleibe | bleibst | bleiben | bleibt | bleiben | bleibt | bleiben | bleiben | stay/ remain keep |
+| bleiben | bleibe | bleibst | bleiben | bleibt | bleiben | bleibt | bleiben | bleiben | stay/remain/keep |
 | helfen | helfe | hilfst | helfen | hilft | helfen | helft | helfen | helfen | help |
 | schreiben | schreibe | schreibst | schreiben | schreibt | schreiben | schreibt | schreiben | schreiben | write |
 | stehen | stehe | stehst | stehen | steht | stehen | steht | stehen | stehen | stand |
 | essen | esse | isst | essen | isst | essen | esst | essen | essen | eat |
 | kommen | komme | kommst | kommen | kommt | kommen | kommt | kommen | kommen | come |
 | schwimmen | schwimme | schwimmst | schwimmen | schwimmt | schwimmen | schwimmt | schwimmen | schwimmen | swimm |
-| tragen | trage | trägst | tragen | trägt | tragen | tragt | tragen | tragen | carry |
+| tragen | trage | trägst | tragen | trägt | tragen | tragt | tragen | tragen | carry/wear |
 | fahren | fahre | färhst | fahren | färht | fahren | fahrt | fahren | farhen | drive |
 | nehmen | nehme | nimmst | nehmen | nimmt | nehmen | nehmt | nehmen | nehmen | take |
 | sehen | sehe | siehst | sehen | sieht | sehen | seht | sehen | sehen | see |
