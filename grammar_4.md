@@ -72,5 +72,3 @@ Berlin ist der Deutschland von Hauptstadt.
 Ich habe eine Wohnung
 
 Wir haben Hunger
-
-
