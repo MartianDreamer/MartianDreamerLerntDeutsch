@@ -1,5 +1,9 @@
 # Unit 3
 
+## Characters
+
+ä ü ß
+
 ## 3.1
 
 ich arbeite in Berlin
@@ -34,3 +38,39 @@ sie heisst Mary
 | schlafen | schlafe | schläfst | schlafen | schläft | schlafen | schlaft | schlafen | schlafen | sleep |
 | sprechen | spreche | sprichst | sprechen | spricht | sprechen | sprecht | sprechen | sprechen | speak |
 | waschen | wasche | wäschest | waschen | wäscht | waschen | wascht | waschen | waschen | wash |
+
+## 3.3
+
+Er kommst aus Wien
+
+Er arbeitet für das Österreichische Fernsehen
+
+Er spricht näturlich Deutsch, aber auch Englisch und Spanisch
+
+Er leist gern Kriminalromane
+
+Er färht auch gern Ski und schwimme viel
+
+Er seht gern alte Filme mit Marlene Dietrich
+
+Er schläft oft lange
+
+Er reist gern
+
+Und er hilft am Wochenende alten Leuten
+
+## 3.4
+
+Sie liest ein Buch
+
+Peter spricht Deutsch und Englisch
+
+Wir sprechen Deutsch und Spanisch
+
+Madga isst gern Pizza
+
+Er hat ein bier
+
+sie trägt ein T-Shirt
+
+es regnet
