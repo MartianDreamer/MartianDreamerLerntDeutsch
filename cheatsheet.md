@@ -15,24 +15,24 @@ The first letter of a noun is capitalized
 
 ## Verb endings – an overview
 
-| English | German | Present |
+|English|German|Present|
 |--|--|--|
-| I | ich | -e |
-| you(informal) | du | -st |
-| you(formal) | Sie | -en |
-| he/she/it | er/sie/es | -t |
-| We | wir | -en |
-| you(plural informal) | ihr | -t |
-| you(plural formal) | Sie | -en |
-| they | sie | -en |
+|I|ich|-e|
+|you(informal)|du|-st|
+|you(formal)|Sie|-en|
+|he/she/it|er/sie/es|-t|
+|We|wir|-en|
+|you(plural informal)|ihr|-t|
+|you(plural formal)|Sie|-en|
+|they|sie|-en|
 
 ## Irregular verbs
 
-| Stem | Rule | Affected | Examples |
+|Stem|Rule|Affected|Examples|
 |--|--|--|--|
 |-d, -t, -m, -n|t => et, st => est|du, er/sie/es and ihr|du arbeitest|
 |-s, -ss, -ß, -x, -z, -tz|st => t|du|du reist|
-|n\a|a => ä, e => i, e => ie|du and er/sie/es| du sprichst|
+|n\a|a => ä, e => i, e => ie|du and er/sie/es|du sprichst|
 
 ## Haben and sein
 
@@ -93,7 +93,7 @@ Question word in the first position
 |Wohin|Wohin gehst du?|
 |Wann|Wann kommst du an?|
 |Wie|Wie alt sind Sie?|
-|Wie lange| |
+|Wie lange||
 |Wie viel|Wie viel kostet es?|
 |Wie viele|Wie viele Bäume gibt es?|
 |Wie oft|Wie oft spielst du Fussball?|
