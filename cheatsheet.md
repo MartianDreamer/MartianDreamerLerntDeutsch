@@ -63,3 +63,57 @@ Some inseparable prefixes: **be-, er-, ge- and ver-**
 |--|--|--|
 |fernsehen|Die Kinder sehen jeden Abend fern|Herr Carlsen sieht fern, aber seine Kinder lesen|
 |aufstehen|Bernhard steht um fünf Uhr morgens auf|Ich stehe auf und dann frühstücke ich|
+
+## Imperatives
+
+Verb in the first position
+
+|case|du|Sie/Sie|ihr|
+|--|--|--|--|
+||stem|just like present tense|present tense without subject|
+|regular|Komm her!|Kommen Sie her!|Kommt her!|
+|-t, -d, -m, -n|Warte|Warten Sie.|Wartet.|
+|vowel (except a => ä)|Sprich leise|Sprechen Sie leise|Spricht leise|
+|separable|Fang an|Fang Sie an|Fangt an|
+|Sein|Sei vorsichtig|Seien Sie vorsichtig|Seid vorsichtig|
+|Haben|Hab Geduld!|Haben Sie Geduld!|Habt Geduld!|
+
+## Questions
+
+### Interrogative
+
+Question word in the first position
+
+|Question word|Example|
+|--|--|
+|wer|Wer ist sie?|
+|was|Was machst du?|
+|wo|Wo lebst du?|
+|woher|Woher kommst du?|
+|Wohin|Wohin gehst du?|
+|Wann|Wann kommst du an?|
+|Wie|Wie alt sind Sie?|
+|Wie lange| |
+|Wie viel|Wie viel kostet es?|
+|Wie viele|Wie viele Bäume gibt es?|
+|Wie oft|Wie oft spielst du Fussball?|
+|Warum|Warum isst du fondue nicht gern?|
+
+Note:
+
+* use Wie to ask name or address:
+  * Wie ist dein Name?
+  * Wie ist Ihre Telefonnummer?
+* Was sind Sie von Beruf?
+* Wo arbeitest du?
+
+### Yes/No question
+
+Verb in the first position
+
+Example:
+
+* Lebst du in Berlin?
+* Spielst du Computerspiele?
+
+## Nouns and genders
