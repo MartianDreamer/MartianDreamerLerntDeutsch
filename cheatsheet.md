@@ -3,8 +3,9 @@
 ## Basic
 
 The first letter of a noun is capitalized
+ä, ö, ü, ß
 
-## Word order
+## 1. Word order
 
 **Basic rules:**
 
@@ -13,7 +14,7 @@ The first letter of a noun is capitalized
 * Finite verbs in subordinate clauses locate at the end
 * If there is 2 verbs, one will locate at the end
 
-## Verb endings – an overview
+## 2. Verb endings – an overview
 
 |English|German|Present|
 |--|--|--|
@@ -26,7 +27,7 @@ The first letter of a noun is capitalized
 |you(plural formal)|Sie|-en|
 |they|sie|-en|
 
-## Irregular verbs
+## 3. Irregular verbs
 
 |Stem|Rule|Affected|Examples|
 |--|--|--|--|
@@ -34,7 +35,7 @@ The first letter of a noun is capitalized
 |-s, -ss, -ß, -x, -z, -tz|st => t|du|du reist|
 |n\a|a => ä, e => i, e => ie|du and er/sie/es|du sprichst|
 
-## Haben and sein
+## 4. Haben and sein
 
 |Pronoun|Haben(have)|Sein(be)|
 |--|--|--|
@@ -47,7 +48,7 @@ The first letter of a noun is capitalized
 |Sie|haben|sind|
 |sie|haben|sind|
 
-## Separable verbs
+## 5. Separable verbs
 
 **Rules:**
 
@@ -64,7 +65,7 @@ Some inseparable prefixes: **be-, er-, ge- and ver-**
 |fernsehen|Die Kinder sehen jeden Abend fern|Herr Carlsen sieht fern, aber seine Kinder lesen|
 |aufstehen|Bernhard steht um fünf Uhr morgens auf|Ich stehe auf und dann frühstücke ich|
 
-## Imperatives
+## 6. Imperatives
 
 Verb in the first position
 
@@ -78,7 +79,7 @@ Verb in the first position
 |Sein|Sei vorsichtig|Seien Sie vorsichtig|Seid vorsichtig|
 |Haben|Hab Geduld!|Haben Sie Geduld!|Habt Geduld!|
 
-## Questions
+## 7. Questions
 
 ### Interrogative
 
@@ -116,4 +117,62 @@ Example:
 * Lebst du in Berlin?
 * Spielst du Computerspiele?
 
-## Nouns and genders
+## 8. Nouns and genders
+
+### Masculine
+
+|Clue|Example|Exception|
+|--|--|--|
+|-er|der Computer, der Wecker|das Wasser, die Butter|
+|-ig|der Honig, der Käfig||
+|-ismus|der Kommunismus, der Kapitalismus||
+|ling|der Frühling, der Schilling||
+|-or|der Motor, der Reaktor||
+|male people|der Vater, der Sohn||
+|names of days, months, and seasonse|der August, der Januar, der Mitwoch, der Sommer, der Winter||
+|makes of cars|der BMW, der Jaguar||
+|alcoholic|der Wein, der Whisky|das Beer|
+
+### Feminine
+
+|Clue|Example|Exception|
+|--|--|--|
+|-ei|die Bäckerei, die Türkei||
+|-enz|die Intelligenz, die Differenz||
+|-heit|die Freiheit, die Dummheit||
+|-ie|die Demokratie, die Phantasie||
+|-ion|die Nation, die Kommunikation||
+|-keit|die Schwierigkeit, die Möglichkeit||
+|-tät|die Universität, die Fakultät||
+|-schaft|die Mannschaft, die Landschaft||
+|-ung|die Wohnung, die Zeitung||
+|-ur|die Kultur, die Natur|das Futur|
+|Female persons|Die Tochter, die Mutter|das Mädchen|
+|names of motorbikes and ships|die BMW, die Titanic||
+|names of trees and flowers|die Eiche(oak), die Rose||
+
+### Neuter
+
+|Clue|Example|Exception|
+|--|--|--|
+|-chen| das Mädchen, das Märchen||
+|-lein|das Fräulein, das Männlein||
+|-ma| das Klima, das Thema|die Firma|
+|-ment|das Dokument, das Instrument||
+|-o|das Kino, das Büro||
+|-um| das Album, das Zentrum||
+|young persons|das Baby, das Kind||
+|infinitives used as nouns|das Singen, das Tanzen||
+|names of hotels and cinemas|das Hilton, das Roxy||
+|names of most metals|das Silber, das Gold||
+|diminutives|das Tischlein||
+
+### Compound nouns
+
+the last noun defines the gender.
+
+Example:
+
+* der Wein + die Flasche => die Weinflasche
+* das Telefon + die Nummer => die Telefonnummer
+* der Computer + das Spiel => das Computerspiel
