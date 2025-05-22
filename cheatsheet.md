@@ -191,7 +191,7 @@ Example:
 |Clue|Plural form|Example|
 |--|--|--|
 |*|-e|die Berufe, die Filme, die Tische|
-|-er, el, en|(umlaut)-e|die Kuchen, die Äpfel|
+|-er, el, en|(umlaut)|die Kuchen, die Äpfel|
 
 ### Feminine plural form
 
