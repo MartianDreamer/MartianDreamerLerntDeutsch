@@ -176,3 +176,27 @@ Example:
 * der Wein + die Flasche => die Weinflasche
 * das Telefon + die Nummer => die Telefonnummer
 * der Computer + das Spiel => das Computerspiel
+
+## Plural noun
+
+### Masculine plural form
+
+|Clue|Plural form|Example|
+|--|--|--|
+|*|-e|die Berufe, die Filme, die Tische|
+|-er, el, en|(umlaut)-e|die Kuchen, die Äpfel|
+
+### Feminine plural form
+
+|Clue|Plural form|Example|
+|--|--|--|
+|*|-n, -en|die Frauen, die Zeitungen, die Tassen, die Sprachen|
+|*|umlaut-e|die Hände, die Städte|
+
+### Neuter plural form
+
+|Clue|Plural form|Example|
+|--|--|--|
+|*|-e|die Beine, die Haare, die Jahre|
+|*|(umlaut)-er|die Kinder, die Bucher|
+|-chen, -lein||die Mädchen|
