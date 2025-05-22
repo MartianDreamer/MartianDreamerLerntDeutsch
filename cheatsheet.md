@@ -179,6 +179,13 @@ Example:
 
 ## Plural noun
 
+Add s into foreign words
+
+Example:
+
+* die Chefs
+* die Partys
+
 ### Masculine plural form
 
 |Clue|Plural form|Example|
