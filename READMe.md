@@ -1,10 +1,8 @@
-# The repository to save my journey to study German
-
-## Content
+# Content
 
 [My cheat sheet](./cheatsheet.md)
 
-### Grammar
+## Grammar
 
 * [Grammar 1](./grammar_1.md)
 
