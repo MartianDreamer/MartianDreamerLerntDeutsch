@@ -207,3 +207,44 @@ Example:
 |*|-e|die Beine, die Haare, die Jahre|
 |*|(umlaut)-er|die Kinder, die Bucher|
 |-chen, -lein||die Mädchen|
+
+## Four cases
+
+|Nominative|Accusative|Dative|Genitive|
+|--|--|--|--|
+|The agent of what is happening|receiver of the action|indirect object|one belongs to the other|
+|Who does the action?|Who is affected by the action?|To/for whom the is action done?||
+
+### Article by cases
+
+#### Definitive article by cases
+
+Rules:
+
+* whether the noun is the subject or the object of the sentence
+* the verb, and
+* any prepositions used.
+
+|Gender|Nominative|Accusative|Dative|Genitive|
+|--|--|--|--|--|
+|Masculine|der|den|dem|des|
+|Feminine|die|die|der|der|
+|Neuter|das|das|dem|des|
+|Plural|die|die|den|der|
+
+#### Indefinitive article by cases
+
+|Gender|Nominative|Accusative|Dative|Genitive|
+|--|--|--|--|--|
+|Masculine|ein|einen|einem|eines|
+|Feminine|eine|eine|einer|einer|
+|Neuter|ein|ein|einem|eines|
+
+|Gender|Nominative|Accusative|Dative|Genitive|
+|--|--|--|--|--|
+|Masculine|kein|keinen|keinem|keines|
+|Feminine|keine|keine|keiner|keiner|
+|Neuter|kein|kein|keinem|keines|
+|Plural|keine|keine|keinen|keiner|
+
+## Nominative case
