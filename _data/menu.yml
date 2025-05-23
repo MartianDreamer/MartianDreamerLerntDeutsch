@@ -3,9 +3,9 @@
 
 entries:
 
-  - title: all posts
+  - title: posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_text: See more...
+      show_more_url: posts
