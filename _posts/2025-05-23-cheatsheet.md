@@ -1,4 +1,7 @@
-# Cheat sheet
+---
+layout: post
+title: Cheat sheet
+---
 
 ## Basic
 
