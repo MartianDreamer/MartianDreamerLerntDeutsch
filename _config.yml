@@ -1,4 +1,7 @@
-theme: no-style-please
+title: MartianDreamerLerntDeutsch
+author: MartianDreamer
+
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
