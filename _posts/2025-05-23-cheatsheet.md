@@ -251,3 +251,25 @@ Rules:
 |Plural|keine|keine|keinen|keiner|
 
 ## Nominative case
+
+German uses the nominative case the noun is:
+
+* the subject in a sentence.
+* a person or thing doing the action.
+* after sein and werden
+
+Example:
+
+* ***Der Mann*** hört Musik.
+* ***Die Frau*** liest das Buch.
+* ***Das Kind*** kauft einen Apfel.
+* ***Die Gäste*** wollen es nicht.
+* Er ***ist ein interessanter Mann***.
+* Es ***wird ein schöner Tag***.
+
+||Masculine|Feminine|Neuter|Plural|
+|--|--|--|--|--|
+|Defininite|der|die|das|die|
+|Indefinite|ein|eine|ein||
+|Negative|kein|keine|kein|keine|
+|Possessive|mein|meine|mein|meine|
