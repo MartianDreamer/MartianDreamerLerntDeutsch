@@ -252,7 +252,7 @@ Rules:
 
 ## Nominative case
 
-German uses the nominative case the noun is:
+German uses the nominative case when the noun is:
 
 * the subject in a sentence.
 * a person or thing doing the action.
@@ -273,3 +273,37 @@ Example:
 |Indefinite|ein|eine|ein||
 |Negative|kein|keine|kein|keine|
 |Possessive|mein|meine|mein|meine|
+
+## Acusative case
+
+German normally uses the accusative case when the noun is:
+
+* direct object
+* the receiver of the action
+
+Example:
+
+* Der Mann kauft **den Computer**.
+* Er liest **das Buch**.
+
+||Masculine|Feminine|Neuter|Plural|
+|--|--|--|--|--|
+|Definite|den|die|das|die|
+|Indefinite|einen|eine|ein||
+|Negative|keinen|keine|kein|keine|
+|Possessive|meinen|meine|mein|meine|
+
+Example
+
+|Nominative noun|Accusative example|Meaning|
+|--|--|--|
+|der Stuhl|Ich kaufe den Stuhl|I buy the chair|
+|die CD|Ich hört die CD|I'm listening to this CD|
+|das Auto|Fährst du das Auto?|Are you driving the car?|
+|ein Regenschirm|Ich habe einen Regenschirm|I have an umbrella|
+|eine Cola|Ich trinke eine Cola|I'm drinking a cola|
+|ein Bier|Ich nehme ein Bier|I take a beer|
+|der Hunger|Ich habe keinen Hunger|I'm not hungry|
+|ihr Bruder|Sie vermisst ihren Bruder|She misses her brother|
+
+Verbs which take the accusative are also called transitive verbs (vt in dictionary).
