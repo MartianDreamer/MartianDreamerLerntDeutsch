@@ -306,4 +306,31 @@ Example
 |der Hunger|Ich habe keinen Hunger|I'm not hungry|
 |ihr Bruder|Sie vermisst ihren Bruder|She misses her brother|
 
+### Verbs with accusative case
+
 Verbs which take the accusative are also called transitive verbs (vt in dictionary).
+
+### Preposition with accusative case
+
+The following prepositions always take the accusative:
+
+* bis - until
+* durch - through
+* für - for
+* gegen - against, round
+* ohne - without
+* um - around, at
+
+Example:
+
+* Wir fahren gerade durch einen Tunnel.
+* Arbeitest du für die Firma?
+* Er ist gegen das Angebot.
+* Sie kommt ohne ihren Freund.
+
+### More than 1 accusative noun in a sentence
+
+Example:
+
+* Ich sehe den Jungen ohne seinen Mantel.
+* Wir kaufen einen TIsch und einen Schrank für deinen Vater.
