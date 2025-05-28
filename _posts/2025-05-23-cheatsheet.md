@@ -12,10 +12,10 @@ The first letter of a noun is capitalized
 
 **Basic rules:**
 
-* Finite verbs are the second idea in most sentences
-* Finite verbs are at the beginning of sentences in orders and questions
-* Finite verbs in subordinate clauses locate at the end
-* If there is 2 verbs, one will locate at the end
+* Finite verbs are **the second idea** in most sentences
+* Finite verbs are at **the beginning** of sentences in **orders and questions**
+* Finite verbs in **subordinate clauses** locate at **the end**
+* If there is **2 verbs**, one will locate at **the end**
 
 ## 2. Verb endings – an overview
 
@@ -55,7 +55,7 @@ The first letter of a noun is capitalized
 
 **Rules:**
 
-* Prefixes go at the end
+* **Prefixes** go at **the end**
 * prefix goes to the end of the relevant clause
 * Verbs can have more than one prefix
 
@@ -254,9 +254,9 @@ Rules:
 
 German uses the nominative case when the noun is:
 
-* the subject in a sentence.
-* a person or thing doing the action.
-* after sein and werden
+* **the subject** in a sentence.
+* a person or thing **doing the action**.
+* after **sein and werden**
 
 Example:
 
@@ -278,8 +278,8 @@ Example:
 
 German normally uses the accusative case when the noun is:
 
-* direct object
-* the receiver of the action
+* **direct** object
+* **the receiver** of the action
 
 Example:
 
@@ -308,7 +308,7 @@ Example
 
 ### Verbs with accusative case
 
-Verbs which take the accusative are also called transitive verbs (vt in dictionary).
+Verbs which take the accusative are also called **transitive verbs** (**vt** in dictionary).
 
 ### Preposition with accusative case
 
@@ -339,8 +339,8 @@ Example:
 
 The dative case it is mainly used for:
 
-* the indirect object, i.e., a person or thing
-* to whom or to which something is done
+* **indirect** object
+* **to** whom or to which something is done
 
 Example:
 
