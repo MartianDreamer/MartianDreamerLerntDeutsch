@@ -323,10 +323,10 @@ The following prepositions always take the accusative:
 
 Example:
 
-* Wir fahren gerade durch **einen Tunnel**.
-* Arbeitest du für **die Firma**?
-* Er ist gegen **das Angebot**.
-* Sie kommt ohne **ihren Freund**.
+* Wir fahren gerade **durch einen Tunnel**.
+* Arbeitest du **für die Firma**?
+* Er ist **gegen das Angebot**.
+* Sie kommt **ohne ihren Freund**.
 
 ### More than 1 accusative noun in a sentence
 
@@ -345,3 +345,50 @@ The dative case it is mainly used for:
 Example:
 
 * Der Lehrer gibt **der Frau** ein Buch.
+
+### Verbs require dative case
+
+Verbs:
+
+* helfen
+* danken
+* gehören - belong to
+* folgen
+
+|Nominative noun|Dative example|Meaning|
+|--|--|--|
+|der Mann|Ich folge dem Mann|I follow the man|
+|die Mutter|Das Baby gleicht der Mutter|The baby resembles the mother|
+|das Kind|Ich danke dem Kind|I thank the child|
+|die Gäste|Sie hilft den Gästen|She helps the guests|
+
+### Prepositions require dative case
+
+Preposition:
+
+* aus - from, out of
+* außer - apart from
+* bei - at, near
+* gegenüber - opposite
+* mit - with, by
+* nach - after, to
+* seit - since, for
+* von - from
+* zu - to
+
+Example:
+
+* Sie kommt **aus der Türkei**.
+* **Außer den Meiers** sind all da.
+* Arbeitest du **bei der Firma** Meier?
+* Sie wohnen **gegenüber der Kirche**.
+* Er färht **mit dem Auto**.
+* **Nach der Arbeit**, gehe ich einkaufen.
+* Wir fahren zu meiner Freundin.
+
+### More than 1 dative case
+
+Example:
+
+* Ich **helfe dem Jungen** ***mit seinem Mantel***.
+* Sie **folgen dem Mann** und dann **der Frau** ***mit ihren Freunden***.
