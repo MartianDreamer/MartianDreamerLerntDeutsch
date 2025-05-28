@@ -333,4 +333,15 @@ Example:
 Example:
 
 * Ich sehe den Jungen ohne seinen Mantel.
-* Wir kaufen einen TIsch und einen Schrank für deinen Vater.
+* Wir kaufen einen Tisch und einen Schrank für deinen Vater.
+
+## Dative
+
+The dative case it is mainly used for:
+
+* the indirect object, i.e., a person or thing
+* to whom or to which something is done
+
+Example:
+
+* Der Lehrer gibt der Frau ein Buch.
