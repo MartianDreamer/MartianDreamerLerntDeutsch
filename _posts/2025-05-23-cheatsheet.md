@@ -379,7 +379,7 @@ Preposition:
 Example:
 
 * Sie kommt **aus der Türkei**.
-* **Außer den Meiers** sind all da.
+* **Außer den Meiers** sind alle da.
 * Arbeitest du **bei der Firma** Meier?
 * Sie wohnen **gegenüber der Kirche**.
 * Er färht **mit dem Auto**.
