@@ -323,10 +323,10 @@ The following prepositions always take the accusative:
 
 Example:
 
-* Wir fahren gerade durch einen Tunnel.
-* Arbeitest du für die Firma?
-* Er ist gegen das Angebot.
-* Sie kommt ohne ihren Freund.
+* Wir fahren gerade durch **einen Tunnel**.
+* Arbeitest du für **die Firma**?
+* Er ist gegen **das Angebot**.
+* Sie kommt ohne **ihren Freund**.
 
 ### More than 1 accusative noun in a sentence
 
