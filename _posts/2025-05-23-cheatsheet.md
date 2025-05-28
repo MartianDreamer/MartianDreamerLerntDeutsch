@@ -344,4 +344,4 @@ The dative case it is mainly used for:
 
 Example:
 
-* Der Lehrer gibt der Frau ein Buch.
+* Der Lehrer gibt **der Frau** ein Buch.
