@@ -392,3 +392,36 @@ Example:
 
 * Ich **helfe dem Jungen** ***mit seinem Mantel***.
 * Sie **folgen dem Mann** und dann **der Frau** ***mit ihren Freunden***.
+
+## Genitive
+
+The genitive case is used to indicate possession or ownership.
+
+Example:
+
+* Das ist die Tasche **meines Vatters**.
+* Das Genus **des Wortes** ist maskulin.
+* Das ist die Meinung **der Gäste**.
+
+### Endings in the genitive case
+
+Notes:
+
+* **Neuter and masculine -es**
+* **Plural and feminine -er**
+* **Masculine and neuter nouns** also add
+  * **-es to most short** nouns (1 syllable)
+  * **-s** to nouns with **2 or more syllables**
+
+### Prepositions require genitive case
+
+Preposition:
+
+* trotz - despite
+* während - during
+* wegen - because of
+* (an)statt - instead
+
+### Spoken German
+
+Replaced by **von + dative case**
