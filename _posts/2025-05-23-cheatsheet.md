@@ -425,3 +425,38 @@ Preposition:
 ### Spoken German
 
 Replaced by **von + dative case**
+
+## Personal pronouns
+
+||Singular|Plural|
+|--|--|--|
+|first person|ich|wir|
+|second person|du|ihr|
+||Sie|Sie|
+|third person|er||
+||sie||
+||es||
+|||sie|
+
+### Pronouns use grammatical genders
+
+**Pronouns** use **grammatical genders** ***regardlessly*** they are **people, or things**
+
+* **Masculine** nouns are replaced by **er**
+* **Feminine** nouns are replaced by **sie**
+* **Neuter** nouns are replaced by **es**
+
+### Pronouns change according to cases
+
+|Nominative|Accusative|Dative|
+|--|--|--|
+|ich|mich|mir|
+|du|dich|dir|
+|Sie|Sie|Ihnen|
+|er|ihn|ihm|
+|sie|sie|ihr|
+|es|es|ihm|
+|wir|uns|uns|
+|ihr|euch|euch|
+|Sie|Sie|Ihnen|
+|sie|sie|ihnen|
