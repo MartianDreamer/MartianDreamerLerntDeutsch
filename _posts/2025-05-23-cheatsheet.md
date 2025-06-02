@@ -460,3 +460,27 @@ Replaced by **von + dative case**
 |ihr|euch|euch|
 |Sie|Sie|Ihnen|
 |sie|sie|ihnen|
+
+## Possessive adjective
+
+|Pronoun|Possessive Adjective|
+|--|--|
+|ich|mein|
+|du|dein|
+|Sie|Ihr|
+|er|sein|
+|sie|ihr|
+|es|sein|
+|wir|unser|
+|ihr|euer|
+|Sie|Ihr|
+|sie|ihr|
+
+### Possesive adjective endings
+
+||Nominative|Accusative|Dative|Genitive|
+|--|--|--|--|--|
+|Masculine|mein|meinen|meinem|meines|
+|Feminine|meine|meine|meiner|meiner|
+|Neuter|mein|mein|meinem|meines|
+|plural|meine|meine|meinen|meiner|
