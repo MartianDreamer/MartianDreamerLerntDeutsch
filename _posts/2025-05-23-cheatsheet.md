@@ -484,3 +484,26 @@ Replaced by **von + dative case**
 |Feminine|meine|meine|meiner|meiner|
 |Neuter|mein|mein|meinem|meines|
 |plural|meine|meine|meinen|meiner|
+
+## Reflexive verbs
+
+Notes:
+
+* Reflexive verbs refer to an action that a person is **doing to himself or herself**.
+* Reflexive verbs are **more frequent** in German **than in English**.
+* Very useful  to talk, for instance, **about your daily routine**.
+
+### Reflexive pronouns
+
+|Accusative|Reflexive|
+|--|--|
+|ich|mich|
+|du|dich|
+|Sie/er/sie/es|sich|
+|wir|uns|
+|ihr|euch|
+|Sie/sie|sich|
+
+### Reflexive separable verbs
+
+umziehen - Sie ziehen sich in der Umkleidekabine um.
