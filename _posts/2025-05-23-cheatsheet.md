@@ -495,14 +495,14 @@ Notes:
 
 ### Reflexive pronouns
 
-|Accusative|Reflexive|
-|--|--|
-|ich|mich|
-|du|dich|
-|Sie/er/sie/es|sich|
-|wir|uns|
-|ihr|euch|
-|Sie/sie|sich|
+|Nominative|Accusative|Dative|
+|--|--|--|
+|ich|mich|mir|
+|du|dich|dir|
+|Sie/er/sie/es|sich|sich|
+|wir|uns|uns|
+|ihr|euch|euch|
+|Sie/sie|sich|sich|
 
 ### Reflexive separable verbs
 
