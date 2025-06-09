@@ -180,7 +180,7 @@ Example:
 * das Telefon + die Nummer => die Telefonnummer
 * der Computer + das Spiel => das Computerspiel
 
-## Plural noun
+## 9. Plural noun
 
 Add s into foreign words
 
@@ -211,7 +211,7 @@ Example:
 |*|(umlaut)-er|die Kinder, die Bucher|
 |-chen, -lein||die Mädchen|
 
-## Four cases
+## 10. Four cases
 
 |Nominative|Accusative|Dative|Genitive|
 |--|--|--|--|
@@ -250,7 +250,7 @@ Rules:
 |Neuter|kein|kein|keinem|keines|
 |Plural|keine|keine|keinen|keiner|
 
-## Nominative case
+## 11. Nominative case
 
 German uses the nominative case when the noun is:
 
@@ -274,7 +274,7 @@ Example:
 |Negative|kein|keine|kein|keine|
 |Possessive|mein|meine|mein|meine|
 
-## Acusative case
+## 12. Acusative case
 
 German normally uses the accusative case when the noun is:
 
@@ -335,7 +335,7 @@ Example:
 * Ich sehe den Jungen ohne seinen Mantel.
 * Wir kaufen einen Tisch und einen Schrank für deinen Vater.
 
-## Dative
+## 13. Dative
 
 The dative case it is mainly used for:
 
@@ -393,7 +393,7 @@ Example:
 * Ich **helfe dem Jungen** ***mit seinem Mantel***.
 * Sie **folgen dem Mann** und dann **der Frau** ***mit ihren Freunden***.
 
-## Genitive
+## 14. Genitive
 
 The genitive case is used to indicate possession or ownership.
 
@@ -426,7 +426,7 @@ Preposition:
 
 Replaced by **von + dative case**
 
-## Personal pronouns
+## 15. Personal pronouns
 
 ||Singular|Plural|
 |--|--|--|
@@ -461,7 +461,7 @@ Replaced by **von + dative case**
 |Sie|Sie|Ihnen|
 |sie|sie|ihnen|
 
-## Possessive adjective
+## 16. Possessive adjective
 
 |Pronoun|Possessive Adjective|
 |--|--|
@@ -485,7 +485,7 @@ Replaced by **von + dative case**
 |Neuter|mein|mein|meinem|meines|
 |plural|meine|meine|meinen|meiner|
 
-## Reflexive verbs
+## 17. Reflexive verbs
 
 Notes:
 
@@ -507,3 +507,64 @@ Notes:
 ### Reflexive separable verbs
 
 umziehen - Sie ziehen sich in der Umkleidekabine um.
+
+## 18. Negative
+
+### Nicht
+
+Notes:
+
+* nicht means not
+* Use nicht for adjectives and verbs
+* example
+
+Examples:
+
+* Das Auto ist **nicht billig**.
+* Das Fahrrad ist **nicht teuer**.
+* Das Haus ist **nicht sehr schön**.
+* Rennst du **nicht**?
+
+#### Position of nicht
+
+| What you want to negate| Position of **nicht**| Example sentence| English translation|
+|--|--|--|--|
+|The **whole verb/action** (no object or after object) | After the verb (or after object if present), often at the sentence end|*Ich sehe den Hund nicht.*|I don’t see the dog.|
+|A **specific adjective** (predicate)|Directly **before the adjective**|*Das Wetter ist nicht schön.*|The weather is not nice.|
+|A **specific adverb**|Directly **before the adverb**|*Sie spricht nicht schnell.*|She doesn’t speak fast.|
+|A **prepositional phrase or specific phrase**|Directly **before that phrase**|*Ich gehe nicht zum Bahnhof.*|I’m not going to the station.|
+|When negating a verb with a **separable prefix**|**nicht** placed before the prefix at the end|*Ich komme nicht spät an.*|I don’t arrive late.|
+
+## 19. Comparison of adjectives and adverbs
+
+Notes:
+
+Comparative
+
+* adding **suffix -er**
+* changing to **umlauts** and adding **suffix -er**
+* als = than
+
+Superlative
+
+* adding **suffix -sten**
+* changing to **umlauts** and adding **suffix -sten**
+
+Exmaple:
+
+|Adjective|Comparative|Superlative|Meaning|
+|--|--|--|--|
+|klein|kleiner|kleinsten|small|
+|schnell|schneller|schnellsten|fast|
+|hässlich|hässlicher|hässlichsten|ugly|
+|langweilig|langweiliger|langweiligsten|boring|
+|alt|älter|älteste|old|
+|arm|ärmer|ärmsten|poor|
+|jung|jünger|jüngsten|young|
+|groß|größer|größten|big, tall|
+|kalt|kälter|kältesten|cold|
+|lang|länger|längsten|long|
+|stark|stärker|stärksten|strong|
+|warm|wärmer|wärmsten|warm|
+|gut|besser|besten|good|
+|viel|mehr|meisten|many (a alot), much|
