@@ -539,16 +539,14 @@ Examples:
 
 Notes:
 
-Comparative
-
-* adding **suffix -er**
-* changing to **umlauts** and adding **suffix -er**
-* als = than
-
-Superlative
-
-* adding **suffix -sten**
-* changing to **umlauts** and adding **suffix -sten**
+* adverb is the same with adjective
+* Comparative
+  * adding **suffix -er**
+  * changing to **umlauts** and adding **suffix -er**
+  * als = than
+* Superlative
+  * adding **suffix -sten**
+  * changing to **umlauts** and adding **suffix -sten**
 
 Exmaple:
 
@@ -556,6 +554,7 @@ Exmaple:
 |--|--|--|--|
 |klein|kleiner|kleinsten|small|
 |schnell|schneller|schnellsten|fast|
+|langsam|langsamer|langsamsten|slow|
 |hässlich|hässlicher|hässlichsten|ugly|
 |langweilig|langweiliger|langweiligsten|boring|
 |alt|älter|älteste|old|
