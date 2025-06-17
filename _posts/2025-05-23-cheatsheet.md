@@ -557,7 +557,7 @@ Exmaple:
 |langsam|langsamer|langsamsten|slow|
 |hässlich|hässlicher|hässlichsten|ugly|
 |langweilig|langweiliger|langweiligsten|boring|
-|alt|älter|älteste|old|
+|alt|älter|ältesten|old|
 |arm|ärmer|ärmsten|poor|
 |jung|jünger|jüngsten|young|
 |groß|größer|größten|big, tall|
@@ -583,3 +583,99 @@ Notes:
 
 * must not = dürfen nicht
 * don't have to = müssen nicht
+
+## 21. The present perfect tense
+
+Present perfect is used to talk about **the past** in **spoken language**.
+
+### PP Formulation
+
+#### Regular verbs' PP
+
+past participle = ge + stem + t
+
+Example:
+
+* kaufen: gekauft
+* spielen: gespielt
+* sagen: gesagt
+
+#### Irregular verbs' PP
+
+past participle = ge + stem(might change) + en
+
+Example:
+
+* lesen: gelesen
+* schlafen: geschlafen
+
+#### Mixed verbs' PP
+
+past participle = ge + stem(change) + t
+
+Example:
+
+* bringen: gebracht
+* denken: gedacht
+* wissen: gewusst
+
+### Word order
+
+**Haben** is at the **second** place while the **main verb** is at **the end**.
+
+Example:
+
+* Gestern hat er Fußball gespielt.
+* Ich habe in Tay Ninh gewohnt.
+
+### The present perfect tense with sein
+
+Sometimes, sein replaces haben.
+
+#### Verbs of motions take sein
+
+Examples:
+
+|Verb|Meaning|Examples|
+|--|--|--|
+|fahren|to go, to drive|Ich **bin** nach Paris **gefahren**.|
+|fliegen|to fly|**Bist** du mit KLM **geflogen**?|
+|gehen|to go, to walk|Er **ist** zu Fuß **gegangen**|
+|kommen|to come|Er **ist** spät **gekommen**.|
+|laufen|to run|Sie **ist** 10 km **gelaufen**.|
+|schwimmen|to swim|Sie **sind** im Atlantik **geschwommen**.|
+|reisen|to travel|Wir sind **früher** viel **gereist**.|
+
+### More verbs with sein
+
+Examples:
+
+* bleiben - to stay
+* sterben - to die
+* werden - to become
+
+### The present perfect tense of haben and sein
+
+Sein -> gewesen
+
+Haben -> gehabt
+
+### Other points to watch out for
+
+Notes:
+
+* Verbs whose stem **ends in -d** or **-t** need an **extra -e** to form the participle
+  * arbeiten -> gearbeitet
+  * reden -> redet
+* Verbs with an inseparable **prefix such as be-, er-, -ver, -zer do not put ge- in front**. Applied for **both regular and irregular** verbs
+  * Er hat das Essen bezahlt.
+  * Wir haben das Auto verkauft.
+  * Ich habe meinen Terminkalender verloren.
+* **Verbs ending in -ieren** (for example studieren and passieren) also **do not add ge-** at the front
+  * studieren -> studiert
+  * optimieren -> optimiert
+* **Separable verbs** form the past with **-ge after the prefix**.
+  * aufmachen -> aufgemacht
+  * einkaufen -> eingekauft
+  * aufstehen -> aufgestanden.
+
