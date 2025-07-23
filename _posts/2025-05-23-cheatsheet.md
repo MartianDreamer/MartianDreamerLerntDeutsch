@@ -573,7 +573,7 @@ Exmaple:
 |Modal verb|Meaning|ich|du|Sie|er/sie/es|wir|ihr|Sie|sie|
 |--|--|--|--|--|--|--|--|--|--|
 |dürfen|may/to be allowed to|ich darf|du darfst|Sie dürfen|er darf|wir dürfen|ihr dürft|Sie dürfen|sie dürfen|
-|mönnen|can/to be able to|ich kann|du kannst|Sie können|er kann|wir können|ihr könnt|Sie können|sie können|
+|können|can/to be able to|ich kann|du kannst|Sie können|er kann|wir können|ihr könnt|Sie können|sie können|
 |müssen|must/to have to|ich muss|du musst|Sie müssen|er muss|wir müssen|ihr müsst|Sie müssen|sie müssen|
 |sollen|should/to be suposed to|ich soll|du sollst|Sie sollen|er soll|wir sollen|ihr sollt|Sie sollen|sie sollen|
 |wollen|to want to|ich will|du willst|Sie wollen|er will|wir wollen|ihr wollt|Sie wollen|sie wollen|
