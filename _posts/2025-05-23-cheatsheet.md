@@ -679,3 +679,43 @@ Notes:
   * einkaufen -> eingekauft
   * aufstehen -> aufgestanden.
 
+## 25. Adjective
+
+In German, **adjectives** change their **endings based on**:
+
+* **Gender** of the noun (masculine, feminine, neuter, plural)
+* **Case** (Nominative, Accusative, Dative, Genitive)
+* What comes before the adjective (**article or not**)
+
+|Declension type|Article Example|When to use it|
+|--|--|--|
+|Strong|kein, etwas, nichts, Zahl / no article|No article or nicht der-words|
+|Mixed|ein, mein, dein, kein|Indefinite article|
+|Weak|der, die, das|Definite article|
+
+### Strong Declension
+
+|Case|Masculine|Feminine|Neuter|Plural|
+|--|--|--|--|--|
+|Nominativ|**guter** Mann|**gute** Frau|**gutes** Kind|**gute** Leute|
+|Akkusativ|**guten** Mann|**gute** Frau|**gutes** Kind|**gute** Leute|
+|Dativ|**gutem** Mann|**guter** Frau|**gutem** Kind|**guten** Leuten|
+|Genitiv|**guten** Mannes|**guter** Frau|**guten** Kindes|**guter** Leute|
+
+### Mixed Declension
+
+|Case|Masculine|Feminine|Neuter|Plural|
+|--|--|--|--|--|
+|Nominativ|ein **guter** Mann|eine **gute** Frau|ein **gutes** Kind|**gute** Leute|
+|Akkusativ|einen **guten** Mann|eine **gute** Frau|ein **gutes** Kind|**gute** Leute|
+|Dativ|einem **guten** Mann|einer **guten** Frau|einem **guten** Kind|**guten** Leuten|
+|Genitiv|eines **guten** Mannes|einer **guten** Frau|eines **guten** Kindes| **guter** Leute|
+
+### Weak Declension
+
+|Case|Masculine|Feminine|Neuter|Plural|
+|--|--|--|--|--|
+|Nominativ|der **gute** Mann|die **gute** Frau|das **gute** Kind|die **guten** Leute|
+|Akkusativ|den **guten** Mann|die **gute** Frau|das **gute** Kind|die **guten** Leute|
+|Dativ|dem **guten** Mann|der **guten** Frau|dem **guten** Kind|den **guten** Leuten|
+|Genitiv|des **guten** Mannes|der **guten** Frau|des **guten** Kindes|der **guten** Leute|
